@@ -1,0 +1,80 @@
+.Intro{
+  text-align: center;
+  color: white;
+}
+.Explanation{
+color: white;
+font-family: times new roman;
+font-style:oblique;
+font-weight: 600;
+opacity:0.7;
+background-color: black;
+}
+body {
+  background-image: url("../images/kitenge.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.Names{
+  color: white;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:0.7;
+  background-color: black;
+  text-align: center;
+
+}
+h2{
+  color: white;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:0.7;
+  background-color: black;
+}
+.Gender{
+  color: white;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:0.7;
+  background-color: black;
+}
+
+.Month{
+  color: white;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:0.7;
+  background-color: black
+}
+
+.Date{
+  color: white;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:0.7;
+  background-color: black
+}
+
+.Year{
+  color: white;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:0.7;
+  background-color: black
+}
+
+.Submit{
+  color: black;
+  font-family: times new roman;
+  font-style:oblique;
+  font-weight: 600;
+  opacity:2.5;
+  background-color: white;
+}
