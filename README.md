@@ -10,20 +10,19 @@ Silvia Gathei
 * Open the folder in your text editor.
 * Open the index.html in your browser.
 ## Technologies used
-* HTML 
+* HTML
 * CSS
 * Boostrap.css
 * Javascript
 ## Live link
 * Click to get my Github link.
-* https://jadielmwangi.github.io/Akan-Naming-Application/
+* https://gathei-iraki.github.io/Akan-Name-Web-Application/
 ## Contact Details
-* Email:jedielmwangi@gmail.com
-* Phone No: 0727 867 684
-* Github: jadielmwangi
+* Email:slyiraki@gmail.com
+* Github: gathei-iraki
 ## Copyright and licence information
 MIT License
-Copyright (c) [2020] [Jadiel Mwangi]
+Copyright (c) [2020] [Silvia Gathei]
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
